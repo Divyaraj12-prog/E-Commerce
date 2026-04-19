@@ -2,8 +2,8 @@
 
 A frontend-focused e-commerce application built to demonstrate global state management using Redux and clean UI design with React.
 
-🔗 Live Demo: https://your-vercel-link  
-🔗 GitHub Repo: https://github.com/your-username/repo-name  
+🔗 Live Demo: (https://e-commerce-ten-peach-93.vercel.app/)  
+🔗 GitHub Repo: (https://github.com/Divyaraj12-prog/E-Commerce.git) 
 
 ---
 
