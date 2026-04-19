@@ -114,7 +114,7 @@ const UpdateUser = () => {
                                     <input
                                         type="password"
                                         {...register("newPassword", {
-                                            required: "New password is required",
+                                            optional: true,
                                             minLength: { value: 6, message: "Min 6 characters" }
                                         })}
                                         placeholder="Enter new password"
