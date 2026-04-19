@@ -38,7 +38,7 @@ Instead of using a backend, static product data is used to ensure consistent beh
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/your-username/repo-name
+git clone https://github.com/Divyaraj12-prog/E-Commerce.git
 cd repo-name
 npm install
 npm run dev
