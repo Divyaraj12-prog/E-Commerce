@@ -101,7 +101,7 @@ const UpdateUser = () => {
                                     <input
                                         type="password"
                                         {...register("currentPassword", {
-                                            required: "Current password is required"
+                                            optional: true,
                                         })}
                                         placeholder="Enter current password"
                                         className="w-full px-4 py-3 bg-zinc-50 border border-zinc-200 rounded-xl text-sm focus:outline-none focus:bg-white focus:border-violet-400 transition-all"
