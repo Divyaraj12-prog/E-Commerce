@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": "YOSo_LQuca34HaBSptqlO",
+      "username": "divyaraj-divgr",
+      "email": "hi@gmail.com",
+      "password": "222333",
+      "confirmPassword": "1234566",
+      "isAdmin": true,
+      "terms": true
+    },
+    {
+      "id": "nIc5sJ-yBokXqUJVUo1dV",
+      "username": "gandu",
+      "email": "test@email.com",
+      "password": "222222",
+      "confirmPassword": "222222",
+      "terms": true,
+      "isAdmin": false
+    },
+    {
+      "id": "yvPDL4cQuVamuXzg6K3rP",
+      "username": "gan",
+      "email": "hi@gmail.com",
+      "password": "222222",
+      "confirmPassword": "222222",
+      "terms": true,
+      "isAdmin": false
+    },
+    {
+      "id": "Zg-mf5w3lo5HYRNhwDg0-",
+      "username": "test@email.com",
+      "email": "test@email.com",
+      "password": "222222",
+      "confirmPassword": "222222",
+      "terms": true,
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard sports fan...",
+      "category": "men's clothing",
+      "image": "/images/charlesdeluvio-_4K7BwaHUGc-unsplash.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "rating.rate": 4.1,
+      "rating.count": 259
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son",
+      "category": "men's clothing",
+      "image": "/images/nimble-made-7RIMS-NMsbc-unsplash.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "rating.rate": 4.7,
+      "rating.count": 500
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the picture and on the actual product. The polyester material is nonporous, thus making it waterproof, stain-resistant and extremely durableee",
+      "category": "men's clothing",
+      "image": "/images/david-lezcano-NfZiOJzZgcg-unsplash.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "rating.rate": 2.1,
+      "rating.count": 430
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects oceans, rivers and seas. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "/images/alyssa-strohmann-TS--uNw-JqE-unsplash.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed.",
+      "category": "jewelery",
+      "image": "/images/solid-gold.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess Ring",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for birthday, Christmas, anniversary, Valentine's Day.",
+      "category": "jewelery",
+      "image": "/images/sabrianna-Y_bxfTa_iUA-unsplash.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel.",
+      "category": "jewelery",
+      "image": "/images/owl-rose.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    }
+  ]
+}
